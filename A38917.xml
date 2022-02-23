@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact diary of the siege of the city of Ments, from the time that the imperialists first sate down before it, to the surrender of the place</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38917</idno>
+            <idno type="STC">Wing E3641</idno>
+            <idno type="STC">ESTC R8665</idno>
+            <idno type="EEBO-CITATION">13255349</idno>
+            <idno type="OCLC">ocm 13255349</idno>
+            <idno type="VID">98679</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38917)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98679)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 453:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact diary of the siege of the city of Ments, from the time that the imperialists first sate down before it, to the surrender of the place</title>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by R. Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mainz (Rhineland-Palatinate, Germany) --  History --  Siege, 1689.</term>
+               <term>Great Britain --  History, Military --  1603-1714 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98679:1" rendition="simple:additions"/>
+            <p>AN EXACT DIARY OF THE SIEGE Of the CITY of MENTS, FROM THE Time that the IMPERIALISTS firſt ſate down before it, to the ſurrender of the Place.</p>
+            <p>Licenſed and Entred according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and are to be ſold by <hi>R. Janeway,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:98679:2"/>
+            <pb n="3" facs="tcp:98679:2"/>
+            <head>AN EXACT DIARY OF THE Famous Siege OF THE CITY of MENTZ, FROM The Time that the <hi>Imperialiſts</hi> firſt ſat down before it, to the Surrender of the Place.</head>
+            <p>THE City of <hi>Mentz</hi> by the Latins called <hi>Ma<g ref="char:EOLhyphen"/>gontiacum,</hi> ſaid to have been Built by <hi>Moguntius,</hi> the Son of <hi>Hector,</hi> the Son of <hi>Priam,</hi> King of <hi>Troy,</hi> is the ſeat of an Archbiſhop, who is one of the Principal Electors of the German Empe<g ref="char:EOLhyphen"/>rour, b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing the Place where Printing was firſt invented, and
+<pb n="4" facs="tcp:98679:3"/>is Scituated four Leagues diſtant from <hi>Francfort,</hi> where the <hi>Main</hi> falls into the <hi>Rhin;</hi> fortified with a Citadel, and adorned with a fair Academy. This City, having for ſome months groned under the Tiranny of the <hi>French</hi> Conqueſts, the Duke of <hi>Lorraine</hi> being numerouſly aſſiſted by the Princes in Con<g ref="char:EOLhyphen"/>federacy againſt the common Enemy of <hi>Europe,</hi> reſolved to wreſt out of the hands of the <hi>French</hi> King and reſtore it to it's former Imperial Freedom.</p>
+            <p>To this purpoſe the Duke of <hi>Lorraine,</hi> upon the 29 of <hi>May</hi> departed from <hi>Francfort,</hi> and took up his Head Quarters at <hi>Hockheim,</hi> about a <hi>German</hi> mile from <hi>Mentz;</hi> and the next day went with four hundered Horſe to obſerve the Place, advancing within Cannon ſhot of the Fort of <hi>Caſſel</hi> which is over againſt <hi>Mentz;</hi> tho the <hi>French</hi> at the ſame time fired a great many ſhot, one of which killed two Men very near the Duke's Perſon.</p>
+            <p>The 31 of <hi>May</hi> ten Imperial Regiments, five of Horſe and five of foot, encamped between <hi>Wiſbaden</hi> and <hi>Morback,</hi> His Highneſs having his Quarters near to <hi>Coſtheim.</hi> The Troops of <hi>Heſſe</hi> were quartered from <hi>Hocheim</hi> as far as the <hi>Rhine;</hi> and the Forces of <hi>Wolfenbuttel</hi> were marched to <hi>Wiſbaden;</hi> and the <hi>Munſterian</hi> Troops, to the number of 5000 Men lay encamped at <hi>Ratingen</hi> within two German miles of <hi>Keiſerſwert.</hi> And in a ſhort time after the Fort of <hi>Caſſel,</hi> lying on the o<g ref="char:EOLhyphen"/>ther ſide of the River, over againſt <hi>Mentz,</hi> was taken by the <hi>Imperialiſts.</hi>
+            </p>
+            <p>This done the Duke of <hi>Lorraine</hi> returned to <hi>Francfort</hi> in Expectation of the Elector of <hi>Saxonie,</hi> and the <hi>Landgrave</hi> of <hi>Heſſe;</hi> there being already come to that Place the Dukes of <hi>Saxen Gothen,</hi> and <hi>Saxen Coburgh,</hi> the Biſhop of <hi>Wirtſbergh,</hi> and the Generals <hi>Souches, Commercy, Lippe,</hi> and <hi>Fleming.</hi>
+            </p>
+            <p>Toward the latter end of <hi>June Keyſerwaert</hi> was Beſieged
+<pb n="5" facs="tcp:98679:3"/>by the Elector of <hi>Brandenburgh,</hi> and upon the finiſhing his Batteries and their beginning to play into the Town, was ſurrendered upon Compoſition. From hence the Elector of <hi>Brandenburgh</hi> marched forward and inveſted <hi>Bonne,</hi> while the Prince of <hi>Waldeck,</hi> and the Prince of <hi>Vaudemont</hi> watched the Motions of the <hi>French</hi> under the Marſhal d'<hi>Humieres,</hi> who had ſuffered much by a great Tempeſt, attended with ſuch violent Rains and Floods, that he loſt a great part of his Baggage, and ſeveral of his Men, himſelf alſo with ſome difficulty eſcaping being drowned. Other detachements there were of the <hi>Confederates</hi> which were ordered to have an Eye upon the Duke of <hi>Duras,</hi> who was forming an Army and lay not far from <hi>Philipſbourgh.</hi>
+            </p>
+            <p>The <hi>French</hi> being thus ſecured from doing much Miſchief to the Beſiegers of <hi>Mentz,</hi> the <hi>Imperial</hi> Army encamped be<g ref="char:EOLhyphen"/>tween <hi>Creutſnach</hi> and <hi>Altzey,</hi> about ſix leagues from <hi>Mentz,</hi> and there made a Halt till they had made themſelves Maſters of the Caſtle of <hi>Eberburgh,</hi> which they attacked upon the ſixteenth of <hi>June</hi> with their Cannon and Mortars; the Caſtle being advantagiouſly ſcituated, and of difficult Acceſs, and lately fortified by the <hi>French</hi> with additional out-works.</p>
+            <p>At the ſame time Letters were intercepted from Monſieur <hi>Louvois</hi> to the Marquiſs d'<hi>
+                  <g ref="char:V">Ʋ</g>xelles,</hi> Governour of <hi>Mentz,</hi> to let him know that the <hi>French</hi> King had ſent the Arriere-Ban to the Coaſts, and that by reaſon of ſome diſappointments, he was not to expect very powerfull Succours, for that there was every where too great Occaſion for his Forces, in regard the Enemy had never been ſo numerous in the Feild be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>And now all things being ready, and the Methods of pro<g ref="char:EOLhyphen"/>ceeding being concerted between the two Princes; the Duke <hi>Lorraine</hi> advanced with the <hi>Imperial</hi> Army within two <hi>German</hi>
+               <pb n="6" facs="tcp:98679:4"/>miles of <hi>Mentz,</hi> having ſent four thouſand <hi>Croats</hi> before, who poſted themſelves near the Town; upon whom the <hi>French</hi> Horſe in the Garriſon made a Sally, but perceiving their Strength, immediately retreated again. The ſame day the Electour of <hi>Saxony</hi> with ſeven thouſand of his Foot paſſed the <hi>Rhine</hi> in Boats, and joyned the <hi>Imperial</hi> Army, having ſent his Horſe to <hi>Gernſheime,</hi> in ordet to paſs the Ri<g ref="char:EOLhyphen"/>ver there upon a Bridge of Boats. The forces of <hi>Heſs</hi> and ſome <hi>Saxon</hi> Regiments, to the number of eight or 10000 Men, were poſted on this ſide the <hi>Rhine,</hi> where they had raiſed ſe<g ref="char:EOLhyphen"/>veral Batteries at <hi>Coſtheim</hi> and <hi>Caſſel,</hi> from whence they very much annoyed the Beſieged with their Bombs and great ſhot. But the <hi>Confederates</hi> reſolving to make quick work, upon the eighteenth of <hi>July</hi> began to work at their Lines of Circumval<g ref="char:EOLhyphen"/>lation, to which purpoſe they ſummond in three thouſand Peaſants from the Country adjoinning. And all the care ima<g ref="char:EOLhyphen"/>ginable was taken to ſupply the Beſiegers with Ammunition and Proviſion by Water from <hi>Frankfort.</hi>
+            </p>
+            <p>The Lines of Circumvallations and Platforms for the Batte<g ref="char:EOLhyphen"/>ries being thus compleated, upon the twenty ſecond in the Evening they opened their Trenches without any diſturbance from the Enemy, who were in a little diſorder that night oc<g ref="char:EOLhyphen"/>caſioned by the Bombs which the <hi>Haſſians</hi> ſhot into the Town from their Battery on the other ſide of the <hi>Rhine,</hi> and which ſet ſeveral Houſes on ſire. The next morning by break of day ſome of the Horſe came out of the Garriſon to diſturb the Workmen; but were quickly beaten in again. They had alſo placed ſeveral Feild Peices all along upon the Counterſ<g ref="char:EOLhyphen"/>carpe, from which they fired upon the Beſiegers Workmen; by one ſhot from whence the young Prince <hi>Frederick</hi> of <hi>New<g ref="char:EOLhyphen"/>burgh</hi> was unfortunately ſlain; and indeed the Enemy often ſhewed themſelves in ſmall Parties, but retired again.</p>
+            <pb n="7" facs="tcp:98679:4"/>
+            <p>The <hi>24th.</hi> the <hi>Saxons</hi> poſted themſelves in the Monaſtery of the <hi>Carthuſians,</hi> and then it was that the Beſiegers finiſhed their Lines of Communication.</p>
+            <p>The next day the <hi>Imperialiſts</hi> removed their Bridge of Boats up higher towards the <hi>Mill,</hi> and ſecur'd it with a Re<g ref="char:EOLhyphen"/>doubt; and by this time they had finiſhed two Batteries, the one of 15, the other of 25 pieces of Canon.</p>
+            <p>At the ſame time the Elector of <hi>Bavaria</hi> joyn'd the <hi>Impe<g ref="char:EOLhyphen"/>rialiſts,</hi> and all the <hi>Saxons</hi> were poſted on this ſide the <hi>Rhine:</hi> And upon the <hi>27th.</hi> at night, the Beſieged play'd ve<g ref="char:EOLhyphen"/>ry ſmartly from the Town, ſo that there were 10 of the Be<g ref="char:EOLhyphen"/>ſiegers kill'd and 30 wounded. All this while in order to a general Aſſault, two Attacks were carry'd on; one upon the left hand by the <hi>Imperialiſts</hi> and <hi>Lunenburghers,</hi> and another on the right hand by the <hi>Saxons</hi> and <hi>Bavarians:</hi> In the mean time General <hi>Dunwald,</hi> was ordered to march with a body of 8000 Horſe to obſerve the D. of <hi>Duras,</hi> who lay encamp'd with the Forces under his Command near <hi>Newſtadt.</hi>
+            </p>
+            <p>Upon the <hi>29th.</hi> of <hi>July,</hi> the Sieur <hi>Damas de Courmaellon,</hi> who had ſerv'd in the <hi>Bavarian</hi> Troops in <hi>Hungary,</hi> was ſeiz'd as he was endeavouring to get alone into the Town. The next night the <hi>Lunenburghers</hi> relieved the Trenches, and ad<g ref="char:EOLhyphen"/>vanced two Lines upon the Right and Left, and finiſhed the Redoubts, the places of Arms and other Works, with the loſs of 5 Souldiers kill'd and 7 wounded; among which M. General <hi>du Mont</hi> was wounded in the Hand.</p>
+            <p>Upon the <hi>29th.</hi> 3000 <hi>Imperialiſts</hi> and 1000 <hi>Haſſiens,</hi> relie<g ref="char:EOLhyphen"/>ved the Trenches, and finiſhed the Lines upon the Right and Left; and withal began to raiſe a Redoubt to cover their Bat<g ref="char:EOLhyphen"/>terries, with the loſs of 3 Men kill'd, and 4 wounded.</p>
+            <p>Upon the <hi>30th.</hi> the <hi>Imperialiſts</hi> mounted the Trenches, and advanc'd them conſiderably; and the <hi>Bavarian</hi> and <hi>Sazons</hi>
+               <pb n="8" facs="tcp:98679:5"/>carried on their Works at the other Attack, with no leſs Vi<g ref="char:EOLhyphen"/>gour and Succeſs; inſomuch that the ſame night they made two Aſſaults upon the <hi>French,</hi> who were poſted in a Garden near the Town; but the Enemy ſtill maintained their ground.</p>
+            <p>Upon the laſt of <hi>July</hi> at night, the Beſieged made a Sally with 1500 Men, and falling upon the <hi>Haſſiens,</hi> at firſt put them to ſome diſorder; but being ſeconded by the next Guard, the Enemy was forc'd to retire with loſs.</p>
+            <p>Upon the <hi>1ſt.</hi> of <hi>Auguſt,</hi> Three perſons enter'd the Beſiegers Camp on Horſeback, and got before they were well perceiv'd, into the Enemies Guard of Dragoons, which was a little ad<g ref="char:EOLhyphen"/>vanced from the Town. It was afterwards underſtood that they were the Marquis of <hi>Barbaſieres,</hi> who was to com<g ref="char:EOLhyphen"/>mand the Garriſon, the Marquiſs <hi>d'uxelles</hi> being ſaid to be ſick, the Marquiſs of <hi>Crequi</hi> and another French Officer.</p>
+            <p>The <hi>2d, 3d,</hi> and <hi>4th.</hi> of <hi>Auguſt,</hi> the Beſigers continued advancing their Trenches, and finiſhing their Batteries, with all the Succeſs they could deſire; conſidering that the Enemy ply'd them very hard both with great and ſmall Shot; by means of which extraordinary toyl of the Beſiegers, they were got within Fourſcore paces of the Glacis: And the <hi>Saxons</hi> had made themſelves Maſters of the Garden before mentioned.</p>
+            <p>At the ſame time alſo a <hi>German</hi> Engineer who had ſerv'd the <hi>French,</hi> with another perſon made their eſcape out of the Garriſon; and gave the D. of <hi>Loraine</hi> a particular Account of the condition of the place, and particularly of their Mines. Du<g ref="char:EOLhyphen"/>ring theſe Progreſſes of the Beſiegers, the grand Maſter of the <hi>Teutonic</hi> Order and the Prince of <hi>Savoy,</hi> were ſlightly wound<g ref="char:EOLhyphen"/>ed.</p>
+            <p>On the other ſide the Duke of <hi>Duras,</hi> in hopes to make ſome Diverſion, croſs'd the <hi>Rhine</hi> with 1500 Men; and having taken a ſmall place upon the <hi>Nechar</hi> by Aſſault, put all the
+<pb n="9" facs="tcp:98679:5"/>Inhabitants to the Sword; after which he advanced toward <hi>Heidelbergh,</hi> where he began to raiſe a Battery againſt the Town: But the Regiment of <hi>Wirtembergh,</hi> commanded by the Count of <hi>Oltinghen,</hi> getting in opportunely into the place, the <hi>French</hi> were repulſed in the Attack which they made upon the Town; with the loſs of between 3 and 400 Men: So that the D. of <hi>Duraſs</hi> being alſo informed, That Count <hi>Serini</hi> with the <hi>Bavarian</hi> Forces, and General <hi>Dunwald</hi> with another great Body were upon their March towards him, he drew off, and returned towards <hi>Philipsburgh;</hi> burning Seven or Eight Villages in his Retreat.</p>
+            <p>On the <hi>10th.</hi> of <hi>Auguſt,</hi> the Redoubt againſt the Counter<g ref="char:EOLhyphen"/>ſcarp on the ſide of the <hi>Imperialiſts</hi> Attack was finiſhed, and the <hi>Bavarians</hi> and <hi>Saxons</hi> at the ſame time advanced their Trenches toward the Garden of <hi>Scadians:</hi> That night there were about 20 Men kill'd and wounded on both Attacks. On the other ſide the <hi>Imperialiſts</hi> had continued playing into the Town with a Battery of 25 pieces of Canon; which had al<g ref="char:EOLhyphen"/>moſt ruin'd two Baſtions: And the next day they began two new Batteries more, the one of 7, the other 10 Guns. The next morning the Beſieged made a Sally with 400 Men upon the <hi>Saxons,</hi> and poſſeſs'd themſelves of a Redoubt, which the Beſiegers were caſting up at the end of the Trenches; where they began to intrench themſelves: But Major General <hi>Reus,</hi> who commanded in the Trenches, haſtning to the Aſſiſtance of the advanced Guards, the <hi>French</hi> were beaten back into the Town in great Confuſion; having loſt the Officer that com<g ref="char:EOLhyphen"/>manded them, and a conſiderable number of their Men: On the Beſiegers ſide Major General <hi>Reus</hi> was wounded, and Col<g ref="char:EOLhyphen"/>lonel <hi>Schevenitzan</hi> who dy'd afterwards of his Wounds; with ſeveral other Officers, with many common Souldiers were ſlain: Which however did not diſcourage the D. of <hi>Lorain,</hi>
+               <pb n="10" facs="tcp:98679:6"/>nor the Electors of <hi>Bauaria</hi> and <hi>Saxony,</hi> from being every night in the Trenches.</p>
+            <p>The <hi>12th.</hi> of <hi>Auguſt</hi> the Beſiegers advanced their Trenches very conſiderably, which nevertheleſs coſt them the loſs of one of their beſt Engineers, who was kill'd that night, and another wounded; and they alſo loft a Lieutenant and 18 common Souldiers: The ſame day news was brought to the Camp, That the <hi>Count de Rabatin,</hi> who had been detach'd from the Body of the <hi>Bavarian</hi> Forces commanded by <hi>Count Serini,</hi> to obſerve the motion of the <hi>French,</hi> had defeated 800 of their Horſe, kill'd about 100, and taken threeſcore Priſoners. The ſame day alſo ſeveral Deſerters came into the Camp from the <hi>French</hi> Army and one from the Town; who inform'd the Duke, That the Garniſon had ſuſtain'd conſiderable loſſes, ſince the beginning of the Siege; but that the Governour was re<g ref="char:EOLhyphen"/>ſolv'd to defend the place to the laſt.</p>
+            <p>The next night the <hi>Imperialiſts</hi> rais'd a new Battery of 4 pieces of Cannon, and the <hi>Saxons</hi> planted their Mortars againſt the Town.</p>
+            <p>The <hi>14th.</hi> the Elector of <hi>Bavaria</hi> went to view the Lines of Circumvallation, and that Evening received advice, That the two Battalions of his Troops that were poſted at <hi>Bruchſall,</hi> after they had withſtood ſeveral Aſſaults, were conſtrain'd to ſurrender at diſcretion, and that together with the Inhabi<g ref="char:EOLhyphen"/>tants they were carryed away Priſoners to <hi>Strasburgh</hi> and o<g ref="char:EOLhyphen"/>ther Places; and that the <hi>French</hi> had burnt <hi>Bruchfall, Brach<g ref="char:EOLhyphen"/>tam, Dourlack, Ettingen, Heildesheim</hi> and <hi>Werngarton,</hi> and then march'd away towards <hi>Baden.</hi> Upon the <hi>15th.</hi> the Elector of <hi>Saxony</hi> left the Camp, finding himſelf not well, and retired to <hi>Frankfort,</hi> After whoſe departure, the Be<g ref="char:EOLhyphen"/>ſieged made a great ſally, and at firſt ſomewhat diſordered the Workmen, but at laſt were beaten back into the Town with
+<pb n="11" facs="tcp:98679:6"/>the loſs of Two hundred ſlain on their ſide, and Fifty of the <hi>Im<g ref="char:EOLhyphen"/>perialiſts,</hi> beſides three Captains.</p>
+            <p>Within a night or two after, the <hi>French</hi> made three Sallies out of the Town, but were as often beaten back with great loſs, and not without ſome damage to the <hi>Lunenburghers,</hi> who had then the Guard of the Trenches, of whom above One hundred were kill'd and wounded with ſeveral Officers; the Prince <hi>Hanover</hi> himſelf narrowly eſcaping, for that a Bullet paſs'd through his Hat.</p>
+            <p>By the <hi>24th.</hi> of <hi>Auguſt,</hi> on the ſide of the <hi>Lorrain</hi> attack, the Beſiegers were advanc'd ſo near the place, that the Cannon from the Town did no longer annoy them. The <hi>Bavarians</hi> and <hi>Saxons</hi> were alſo advanced on their ſide to the very <hi>Glacis</hi> of the Counterſcarp. But their great Battery could not be finiſhed ſo ſoon, in regard the Engineers thought it convenient to make ſome Alterations in the firſt deſign of it; However a thouſand Men who had voluntarily offered their Service, were continually at work upon it, for which his Electoral Highneſs promiſed them a good Reward.</p>
+            <p>Much about the ſame time three <hi>French</hi> Diſſerters made their eſcape out of the Town, by whoſe direction the <hi>Im<g ref="char:EOLhyphen"/>perialiſts</hi> diſcovered three Mines, out of which they took no leſs than fifty Barrels of Powder; all which could not be done but that ſome Men muſt drop every day: Among the reſt on the Beſiegers ſide the Counts d'<hi>Arco</hi> and <hi>Goli</hi> were wounded, and ſeveral others were kill'd and hurt.</p>
+            <p>Nor did it a little conduce to the benefit of the Beſiegers that Marſhal d'<hi>Humiers</hi> was ſo far from being able to ſuc<g ref="char:EOLhyphen"/>cour his Friends, that he was about this time reduc'd to a worſe condition than before by the Forces, under the com<g ref="char:EOLhyphen"/>mand of the Prince <hi>de Waldeck.</hi> For upon the <hi>25th,</hi> of <hi>Auguſt</hi> the Foragers of the <hi>Dutch</hi> Army being abroad by nine of the
+<pb n="12" facs="tcp:98679:7"/>Clock in the Morning, diſcover'd from a Hill a great many Squadrons of <hi>French</hi> Horſe being the Van of their Army which was upon its march, who diſcovering the <hi>Dutch</hi> Foragers, made up directly toward them. Now between the <hi>Dutch</hi> and them was a Valley and a Village, where ſome Squadrons of <hi>Dutch</hi> Horſe and Dragoons, and Coll. <hi>Hodges</hi> with Six hundred <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Foot were poſted to guard the Foragers. The <hi>Dutch</hi> Horſe being overpowred by the Enemies numbers retired. But Coll. <hi>Hodges</hi> in the mean time having lin'd certain Hedges that lay very advantagous for him, and kept firing till be<g ref="char:EOLhyphen"/>tween ten and eleven a Clock, at what time moſt of the Fo<g ref="char:EOLhyphen"/>ragers were got home. Upon this the <hi>French</hi> brought Foot and Dragoons to force Coll. <hi>Hodges</hi> from his Poſt, who there<g ref="char:EOLhyphen"/>upon retir'd to a Mill which he maintain'd, till he receiv'd Orders to retreat, which he did with a Bravery more than or<g ref="char:EOLhyphen"/>dinary, ſtill firing upon the Enemy, till about twelve a Clock he came to a little Town call'd <hi>Walcourt,</hi> about a mile from the Camp and the Paſs to it, where lay a Regiment of <hi>Lunen<g ref="char:EOLhyphen"/>burghers</hi> who fired very thick upon the <hi>French.</hi> And thus with the loſs of Lieutenant Coll. <hi>Graham,</hi> Capt. <hi>Daviſon,</hi> mor<g ref="char:EOLhyphen"/>tally wounded and thirty Men kill'd, Coll. <hi>Hodges</hi> got ſafe to the Camp. But by this time Prince <hi>Waldeck</hi> had rais'd a Bat<g ref="char:EOLhyphen"/>tery, and poſted ſome Horſe and Foot upon a Hill which com<g ref="char:EOLhyphen"/>manded <hi>Walcourt;</hi> and the <hi>French</hi> alſo rais'd another Battery, and brought nine Battallions of Horſe and Dragoons to attack the Town in three ſeveral Places. Upon that, Prince <hi>Waldeck</hi> ordered the <hi>Engliſh</hi> Regiment of Guards, and a <hi>German</hi> Regi<g ref="char:EOLhyphen"/>ment to force their way into the Town, which they did with an extraordinary Reſolution about two in the Afternoon: And the Attack of the <hi>French</hi> continued till fix, both with Canon and ſmall Shot. More eſpecially about Two hundred of the <hi>French</hi> Guards came up to the very Gate of the Town with
+<pb n="13" facs="tcp:98679:7"/>Fire and combuſtible Matter, to have ſet the Town in a ſlame; but of them, the greateſt part were ſlain; and ſo be<g ref="char:EOLhyphen"/>tween ſix and ſeven of the Clock the <hi>French</hi> retired in great di<g ref="char:EOLhyphen"/>ſorder to their Camp, leving behind them between five and ſix hundered of their Men that lay dead under the Walls of the Town, beſides a great many Priſoners; among the reſt <hi>Monſieur de</hi> Saint <hi>Gilain,</hi> Feild Marſhall, killed with a Canon ſhot as he was ſpeaking to Marſhalld' <hi>Humieres</hi> himſelf, <hi>Mon<g ref="char:EOLhyphen"/>ſieur de Metz Tiercelin,</hi> Commiſſary of the Artillery; the Che<g ref="char:EOLhyphen"/>valier <hi>Colbert,</hi> Collonel of the Regiment of <hi>Champaigne</hi> mortal<g ref="char:EOLhyphen"/>ly wounded, and <hi>Monſieur de Tibergeau,</hi> Lieutenant of the Artillery, wounded.</p>
+            <list>
+               <head>Of the Guards.</head>
+               <item>The Count d'<hi>Artagnan,</hi> killed.</item>
+               <item>Four Captains killed.</item>
+               <item>Three Captains wounded.</item>
+               <item>Five Lieutenants killed.</item>
+               <item>Eleven Lieutenants wounded.</item>
+               <item>The Adjutant Major wounded.</item>
+               <item>Two Gentlemen Voluntiers killed, and one wounded.</item>
+            </list>
+            <list>
+               <head>Of the Regiment of Champaigne.</head>
+               <item>The Lieutenant Collonel wounded.</item>
+               <item>The Major mortally wounded.</item>
+               <item>Two Captains killed, Five wounded.</item>
+               <item>Two Lieutenants killed, and three wounded.</item>
+            </list>
+            <list>
+               <head>Of the Gendarmes.</head>
+               <item>An Exemp of the Guards wounded.</item>
+            </list>
+            <list>
+               <head>Out of Vilpians Regiment of Horſe.</head>
+               <item>One Captain killed.</item>
+               <item>Two Captains wounded.</item>
+               <item>An Adjutant Major wounded.</item>
+            </list>
+            <pb n="14" facs="tcp:98679:8"/>
+            <list>
+               <head>Out of Greders Regiment of Foot.</head>
+               <item>One Captain killed.</item>
+               <item>Two Captains wounded.</item>
+               <item>A Serjeant Major killed.</item>
+               <item>An Adjutant Major wounded.</item>
+               <item>A Lieutenant killed.</item>
+            </list>
+            <p>Of the <hi>Dutch</hi> ſide were loſt not above thirty or forty Men, and two Officers.</p>
+            <p>Upon the 25 of <hi>Auguſt,</hi> being Saint <hi>Lewis</hi>'s day, the Be<g ref="char:EOLhyphen"/>ſieged not having heard as yet of this Diſaſter, intended to have made a very great Sally, but were prevented by the firing of three thouſand hand Granado's deſigned to have been made uſe of in the ſaid Sally, which was occaſioned by one of the Beſiegers Bombs falling in among them.</p>
+            <p>The ſame day the <hi>Imperialiſts</hi> threw a great many Bombs into the Counterſcarp, and the night following ſprang a Mine at the leſt Angle of the Attack of the Covered way, and made a Lodgment there, during the heat of which Action the Prince of <hi>Weldentz</hi> was mortally wounded in the Trenches.</p>
+            <p>The 26 the Beſiegers continued ſapping the Glacis of the Enemies Counterſcarp, and ſecured their own two new Redoubts with Paliſado's.</p>
+            <p>Upon the 28, the <hi>Saxon</hi> and <hi>Bavarian</hi> great Battery of 36 great Guns and ten Mortars being finiſhed, that morning they began to play upon the Town and the Citadel, the Elector of <hi>Bavaria</hi> having given Orders, that all the Musketiers ſhould firſt give three Volleys, and that at each Volley eight Bombs ſhould be ſhot into the Place, which was performed accord<g ref="char:EOLhyphen"/>ingly with the ſound of Drums, Kettledrums and Haut-boys. At the ſame time the <hi>Imperialiſts</hi> and <hi>Lunenburghers</hi> made a<g ref="char:EOLhyphen"/>great fire from their Battery of 18 pieces of half Cannon. To
+<pb n="15" facs="tcp:98679:8"/>which the Enemy anſwered with their Cannon and Haut-boys from the Rampart. The ſame night the Beſiegers continued their works at both Attacks; and the <hi>Imperialiſts</hi> advanced with their ſapping above ſixty Paces on the right and left, while the <hi>Bavarians</hi> made a line of Communication to their great Battery, and a new place of Arms.</p>
+            <p>The <hi>29th.</hi> the Beſiegers diſcovered ſeveral of the Enemies Mines, and play'd very fiercely on the Baſtions of St. <hi>James;</hi> St. <hi>Martin, Alexander,</hi> and <hi>Boniface,</hi> as alſo upon the Curtins.</p>
+            <p>Upon the <hi>30th.</hi> one of the Bombs which the Beſiegers threw into the Enemies Counterſcarp, fired another parcel of Hand Granado's, which the Enemy had brought together to make uſe of our Men that were at work upon the Attacks: In revenge of which, the beſieged ſprung a Mine, but without any damage to the Beſiegers; had not the Beſiegers receiv'd a greater prejudice that night by the death of Duke <hi>Chriſtian</hi> of <hi>Saxony,</hi> who was kill'd in the Trenches the <hi>2d.</hi> of <hi>Setem<g ref="char:EOLhyphen"/>ber,</hi> at night. However, the Beſiegers Cannon had made ſuch large Breaches in the Works which defended the Town, that they could ſee into the Streets of the City.</p>
+            <p>On the <hi>2d.</hi> of <hi>September</hi> the Beſiegers finiſhed their great parallel Line, and the <hi>Saxons</hi> planted twelve Pieces of Cannon and ſix Mortars upon a new Battery, in which Action Coll. <hi>Schett</hi> was mortally wounded in the Trenches, together with fourty or fifty common Souldiers.</p>
+            <p>Upon the <hi>3d.</hi> of <hi>September</hi> the Gariſon ſally'd out upon the Trenches, but their number was much leſſen'd before they got back; not without ſome loſs to the Beſiegers, among whom as has been ſaid, was Duke <hi>Chriſtian</hi> of <hi>Sax-Hall,</hi> who was wounded at the ſame time, and dy'd within two or three hours after of his wounds.</p>
+            <pb n="16" facs="tcp:98679:9"/>
+            <p>And now Orders being given for the ſtorming the Counter<g ref="char:EOLhyphen"/>ſcarp between four and five in the Afternoon of the <hi>6th.</hi> of <hi>September;</hi> after the firing of four Pieces of Canon, and the ſhooting of a Bomb into the Air, which were the Signals ap<g ref="char:EOLhyphen"/>pointed, the Beſiegers began the Attack at three ſeveral places, with 12000 Men at each place, who were drawn up into ſe<g ref="char:EOLhyphen"/>veral Bodies and Detachments, to ſecond one another as there ſhould be occaſion. The Enemy on the otherſide, ſprang their Mines, but ſomewhat too early, ſo that they did the Be<g ref="char:EOLhyphen"/>ſiegers little harm. But the Beſiegers Mines had a much bet<g ref="char:EOLhyphen"/>ter effect; for they made very large Breaches, while at the ſame time the Aſſaylers Canon and Bombs play'd very furi<g ref="char:EOLhyphen"/>ouſly. The Diſpute laſted above four hours and a half, and ſuch was the Courage and Reſolution of the Beſiegers who preſs'd ſo hard upon the Enemy, cutting all in pieces that op<g ref="char:EOLhyphen"/>pos'd them, that they not only made themſelves Maſters of the Counterſcarp, and lodg'd themſelves upon it, but purſued the Enemy to the Gates, and had almoſt entred the Town with the flying Enemy. The <hi>Heſſians</hi> forc'd their way to a Fort which the Enemy had near the <hi>Rhine,</hi> which they took by main ſtrength, with their Swords in their hands, but afterward quit<g ref="char:EOLhyphen"/>ted it again: For that not thinking they ſhould have been able to advance ſo far, they were not provided of ſuch Neceſſaries as were requiſite to make a Lodgment. They alſo poſſeſſed themſelves of the <hi>Galgenbergh,</hi> where till then the Enemy had kept a very ſtrong Guard. In this brave Action the Beſiegers had about 2500 Men kill'd and wounded, of which two thirds were <hi>Imperialiſts</hi> and <hi>Lunenburghers,</hi> in regard the Enemy made the greateſt Oppoſition on that ſide; for that they be<g ref="char:EOLhyphen"/>liev'd the <hi>Bavarians</hi> and <hi>Saxons</hi> made only a falſe Attack meerly to allarum them; which was the reaſon that the latter became Maſters of the Counterſcarp about an hour before the <hi>Impe<g ref="char:EOLhyphen"/>rialiſts.</hi>
+            </p>
+            <pb n="17" facs="tcp:98679:9"/>
+            <list>
+               <head>A Liſt of the Officers kill'd and wounded in the Aſſault of the Counterſcarp of <hi>Mayence</hi> of the <hi>Imperialiſts.</hi>
+               </head>
+               <item>Gen. <hi>Starenbergh</hi> died ſince of his wounds. Gen.</item>
+               <item>
+                  <hi>Souches</hi> wounded.</item>
+               <item>Gen. <hi>Wallis</hi> kill'd.</item>
+               <item>Count <hi>Lambergh</hi> who had both his Leggs ſhot off, is ſince dead.</item>
+               <item>
+                  <hi>Schomberck</hi> wounded.</item>
+               <item>
+                  <hi>Holſter</hi> wounded.</item>
+               <item>Major <hi>Haneke</hi> kill'd.</item>
+               <item>Enſign <hi>Sching</hi> kill'd</item>
+               <item>
+                  <hi>Sekliger</hi> wounded.</item>
+            </list>
+            <list>
+               <head>Of the Regiment of Guards of <hi>Saxony.</hi>
+               </head>
+               <item>M. Gen. <hi>Zahte</hi> wounded.</item>
+               <item>C. <hi>Fitterhof</hi> wounded.</item>
+               <item>En<g ref="char:EOLhyphen"/>ſign <hi>Glitſing</hi> kill'd, and Enſign <hi>Grettoff</hi> wounded.</item>
+            </list>
+            <list>
+               <head>Of the Regiment of D. <hi>Chriſtian.</hi>
+               </head>
+               <item>M. Gen. <hi>Zirgter</hi> wounded.</item>
+               <item>C. <hi>Dunhoff</hi> wounded.</item>
+               <item>C. <hi>Stange</hi> wounded.</item>
+               <item>Enſign <hi>Kaiſer</hi> wounded.</item>
+            </list>
+            <list>
+               <head>Of the Regiment of the Count of <hi>Reiſſi.</hi>
+               </head>
+               <item>Capt. <hi>Clunter</hi> wounded.</item>
+               <item>Lieutenant <hi>Zirgiſter</hi> kill'd.</item>
+               <item>Lieu<g ref="char:EOLhyphen"/>tenant <hi>Niſwich</hi> kill'd.</item>
+               <item>Enſign <hi>Welmuth</hi> wounded.</item>
+            </list>
+            <list>
+               <head>Of the Regiment of <hi>Kupfer.</hi>
+               </head>
+               <item>Capt. <hi>Pforter</hi> wounded.</item>
+               <item>C. <hi>Sander</hi> wounded.</item>
+               <item>Lieute<g ref="char:EOLhyphen"/>nant <hi>Michel</hi> wounded.</item>
+               <item>Enſign <hi>Reiſwick</hi> wounded.</item>
+            </list>
+            <list>
+               <head>Of the Regiment of <hi>Zinſendorf.</hi>
+               </head>
+               <item>The Coll. and Lieutenant Coll. <hi>Rotel</hi> wounded.</item>
+               <item>Capt. <hi>Burgs<g ref="char:EOLhyphen"/>dorf</hi> wounded.</item>
+               <item>Lieutenant <hi>Rumor</hi> wounded.</item>
+               <item>Lieutenant <hi>Walks Hoffen</hi> kill'd.</item>
+               <item>Enſign <hi>Winkell</hi> mortally wounded.</item>
+               <item>En<g ref="char:EOLhyphen"/>ſign <hi>Herling</hi> kill'd.</item>
+            </list>
+            <list>
+               <head>Of the Regiment of <hi>Flemming.</hi>
+               </head>
+               <item>M. Gen. <hi>Rodewitz</hi> wounded.</item>
+               <item>
+                  <hi>C. Beneck</hi> kill'd.</item>
+               <item>Lieute<g ref="char:EOLhyphen"/>nant <hi>Hauwitz</hi> kill'd.</item>
+               <item>Enſign <hi>Walden</hi> kill'd.</item>
+               <item>Capt. <hi>Biſtorians</hi> wounded.</item>
+               <item>Enſign <hi>Noſtiz</hi> kill'd.</item>
+               <item>Lieutenant <hi>Mans Huffe</hi> mortally wounded.</item>
+               <item>C. <hi>Vicethumb</hi> wounded.</item>
+            </list>
+            <list>
+               <pb n="18" facs="tcp:98679:10"/>
+               <head>Of the Regiment of <hi>Saxony</hi> of the <hi>Imperialiſts</hi> ſide.</head>
+               <item>Lieutenant Coll. <hi>Bergholtz</hi> wounded.</item>
+               <item>Serjeant Major <hi>Geiers<g ref="char:EOLhyphen"/>bergh</hi> kill'd.</item>
+               <item>C. <hi>Techler</hi> wounded in both Arms.</item>
+               <item>
+                  <hi>Adjutant Remnitz</hi> wounded.</item>
+               <item>Lieutenant <hi>Grange</hi> mortally wounded.</item>
+               <item>Capt. <hi>Bonekam</hi> wounded.</item>
+            </list>
+            <list>
+               <head>Of the Regiment of <hi>Goet.</hi>
+               </head>
+               <item>Six Captains kill'd of which number is Capt. <hi>Seietres.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Of the <hi>Lunenburghers.</hi>
+               </head>
+               <item>Fourteen Captains kill'd and wounded, but the number of the inferior Officers and Souldiers is not known.</item>
+            </list>
+            <list>
+               <head>Of the <hi>Heſſians.</hi>
+               </head>
+               <item>Coll. <hi>Gorts</hi> ſhot quite through the Body.</item>
+               <item>Coll. <hi>Schenk</hi> and Major <hi>Butler</hi> receiv'd two wounds apiece.</item>
+               <item>Major <hi>Loven<g ref="char:EOLhyphen"/>ſteme</hi> wounded in the Foot.</item>
+               <item>Three Captains wounded, and three kill'd.</item>
+               <item>Two Lieutenants wounded and ſeveral infe<g ref="char:EOLhyphen"/>riour Officers.</item>
+            </list>
+            <p>And as for the loſs which the Beſieged received, it was com<g ref="char:EOLhyphen"/>puted to be no leſs than Twelve hundred Men ſlain, beſides thoſe that were diſabled.</p>
+            <p>The next day the Beſiegers continued playing upon the Town from their ſeveral Batteries, and began to prepare for a general Aſſault upon the Town.</p>
+            <p>But then the Governor of the City being ſenſible of his loſs by the taking of the Counterſcarp, and no leſs fearful of the hazard of a general Storm, which he underſtood the Beſiegers were preparing to make, thought it his beſt way to beat a Par<g ref="char:EOLhyphen"/>ley. Thereupon the <hi>8th.</hi> of <hi>September</hi> Hoſtages were exchang'd on both ſides, and the next day the Capitulation was ſign'd, and upon the <hi>11th.</hi> the Place was ſurrendred. Of which the <hi>Dutch</hi> Reſident in the <hi>Brandenburgh</hi> Camp, gave the States an Account by the following Letter.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="19" facs="tcp:98679:10"/>
+                  <opener>
+                     <salute>MY LORDS,</salute>
+                  </opener>
+                  <p>LAST Night arrived here an Expreſs from before <hi>Montz,</hi> being ſent by the Heer <hi>Vandeſloo,</hi> Envoy extraordina<g ref="char:EOLhyphen"/>ry from the Elector of <hi>Brandenburgh,</hi> with an account, That on the <hi>8th.</hi> inſtant the Gariſon of that Place began to capitu<g ref="char:EOLhyphen"/>late, and this morning arriv'd the Son of General <hi>Dunewald</hi> with Letters from the D. of <hi>Lorain</hi> to his Electoral Highneſs, which not only confirm the former Advice, but add theſe farther particulars, That the Capitulation was ſign'd, and that the Gari<g ref="char:EOLhyphen"/>ſon was to march out the <hi>11th.</hi> inſtant, with Colours flying, Drums beating, <hi>&amp;c.</hi> and that they were to leave behind them the Mony which they had extorted from the Neighbouring Countries.</p>
+                  <p>
+                     <g ref="char:V">Ʋ</g>pon ſurrender of the Town, the Magazines were delivered up to thoſe Perſons that were appointed by the Duke of <hi>Lorain</hi> to take an Account of them, and then the Gariſon which at the be<g ref="char:EOLhyphen"/>ginning of the Siege, conſiſted of about Ten thouſand of the beſt Men the <hi>French</hi> had march'd out, in all <hi>4500</hi> Foot, <hi>400</hi> Dra<g ref="char:EOLhyphen"/>goons, and <hi>280</hi> Horſe; beſides, Six or ſeven hundred Foot that went in ſmall Parties, with the Baggage laden upon Three hun<g ref="char:EOLhyphen"/>dred and fifty Waggons, and thirty one Mules, with which were eleven led Horſes, and two Coaches with ſix Horſes apiece, all under a Convoy of Ten thouſand Men to guard them to <hi>Lindaw.</hi> The ſick and wounded which amounted to Fifteen hundred Men, which were all in the Electoral Caſtle, of which the <hi>French</hi> had made an Hoſpital; and the ſix Pieces of Cannon and two Mortars which the <hi>French</hi> were to take along with them, were ſent away by VVater to <hi>Philipsbourgh,</hi> but the Gariſon Souldiers were con<g ref="char:EOLhyphen"/>voy'd to <hi>Lindan,</hi> as is ſaid before: And then the Boors were
+<pb n="20" facs="tcp:98679:11" rendition="simple:additions"/>ſet to work to demoliſh the Trenches and other VVorks which had bin rais'd during the Siege.</p>
+                  <p>So ſoon as the <hi>French</hi> Gariſon and their Luggage was march'd out, which took up ſix hours complete; and that the Marqueſs <hi>d'Uxelles</hi> the late Governour, had taken his leave of the <hi>Impe<g ref="char:EOLhyphen"/>rial</hi> Generals, who treated him with extraordinary Civility, the Confederates entred, and ſet up the <hi>Imperial</hi> Colours upon the Baſtions, None of the Churches or Monaſteries were endamaged by the Bombs, only one Nunnery; but the greateſt part of the pri<g ref="char:EOLhyphen"/>vate Houſes ſuffered very much. There was but very little Pow<g ref="char:EOLhyphen"/>der left in the Town, which was the reaſon they were forced to ca<g ref="char:EOLhyphen"/>pitualate. For to ſay truth, the Fortifications which the <hi>French</hi> had made during the nine Months that the City had been in their poſſeſſion, were very noble; and if the <hi>French</hi> had been ſuffered to keep it any longer, it had been almoſt impregnable.</p>
+                  <p>General <hi>Thungue</hi> is made Governour of the Place for the Em<g ref="char:EOLhyphen"/>peror.</p>
+                  <p>According to the beſt Computation that can be made, the whole Siege has loſt the <hi>Imperialiſts</hi> about <hi>8000</hi> Men.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
